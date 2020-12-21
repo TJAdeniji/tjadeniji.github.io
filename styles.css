@@ -8,10 +8,6 @@ body {
     overflow: hidden;
 }
 
-.navbar nb {
-    text-align: center;
-    float: left;
-}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
